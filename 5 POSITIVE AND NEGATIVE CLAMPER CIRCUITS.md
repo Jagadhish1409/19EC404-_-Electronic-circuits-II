@@ -13,12 +13,15 @@
 
 
 # Tabulation
+![20251127_175158](https://github.com/user-attachments/assets/ad061b0b-b166-4802-aa24-1409db6ab88c)
 
 
 # Graph
+![20251127_175118](https://github.com/user-attachments/assets/22ca2fbd-03dc-4a57-a1d3-cae67d30a0dc)
+![20251127_175240](https://github.com/user-attachments/assets/bf2424a7-23c1-437e-ba9b-c8df30d6ff75)
 
 
-# Sample images 
 
 
 # Result
+Thus the simulation of twin t oscillator using lt spice is done
