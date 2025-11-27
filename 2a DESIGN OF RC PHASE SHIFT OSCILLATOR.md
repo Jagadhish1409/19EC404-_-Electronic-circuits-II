@@ -15,13 +15,14 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|    5.20v   |    1ms       |         952.2Hz       |  1000Hz                 |
 
 # Graph
 
 
+![20251127_174140](https://github.com/user-attachments/assets/577bf7f1-34e9-42ee-9320-5acae3f48b79)
 
-# Sample images 
+
 
 
 
@@ -29,5 +30,5 @@
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:952.2Hz**  
+- **(ii) Practical Frequency:1000Hz**  
