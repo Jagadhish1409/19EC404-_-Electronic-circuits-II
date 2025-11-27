@@ -1,5 +1,5 @@
 ## Exp. No. 3(b)
-**Date:**  
+
 
 ## DESIGN OF COLPITTS OSCILLATOR 
 <img width="524" height="707" alt="image" src="https://github.com/user-attachments/assets/0c63bf2d-f37a-46bf-a132-aec6a8f6dbb7" />
@@ -15,12 +15,12 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|         42.40v   |20ms      |30.07Hz             | 50Hz                   |
 
 # Graph
+![20251127_174645](https://github.com/user-attachments/assets/ce98bbfa-4af9-4426-bb3d-6ab71771a48b)
 
 
-# Sample images 
 
 
 # Result
