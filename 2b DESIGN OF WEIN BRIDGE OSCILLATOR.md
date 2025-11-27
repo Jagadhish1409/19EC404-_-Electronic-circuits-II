@@ -17,7 +17,7 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|    45.2v   |       20ms       |           50.1Hz           |       50Hz                 |
+|    45.2v   |       20ms       |           50.1Hz           |       50Hz                |
 
 
 
