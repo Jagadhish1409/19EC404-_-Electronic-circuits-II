@@ -21,13 +21,16 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![20251127_174927](https://github.com/user-attachments/assets/ea7ad6f5-43a1-4651-acb8-d01274dedc76)
 
 
 # Graph
+![20251127_174857](https://github.com/user-attachments/assets/f9a868f4-e7c4-4ecd-abef-bebe18de4d25)
+![20251127_174956](https://github.com/user-attachments/assets/ce461244-db69-43c1-8ae4-e2c1e549b9f3)
 
 
-# Sample images 
+
 
 
 # Result
-
+Thus different linear wave shaping circuits are studied
